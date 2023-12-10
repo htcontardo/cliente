@@ -1,0 +1,16 @@
+{
+    "name": "htcon/classes",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "teste"
+        }
+    },
+    "authors": [
+        {
+            "name": "Contardo"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}
